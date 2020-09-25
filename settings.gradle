@@ -1,0 +1,2 @@
+rootProject.name='oraimunka'
+include ':app'
